@@ -392,3 +392,27 @@ img.brand-mark {
   border: 1px solid #7a4a52;
   background: #2a1820;
 }
+
+/* —— Ad slots (minimal, centered, GK2/WARDOGS rhythm) —— */
+.ad-slot {
+  margin: 1rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.ad-slot .ad-inner {
+  display: inline-block;
+  line-height: 0;
+}
+.ad-slot--native {
+  margin: 1.25rem 0;
+}
+.ad-slot--mpu {
+  margin: 1rem 0;
+}
+/* Mobile banner shows only on small screens */
+.ad-slot--mobile-banner { display: block; }
+@media (min-width: 740px) {
+  .ad-slot--mobile-banner { display: none; }
+}
