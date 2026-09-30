@@ -265,7 +265,7 @@ img.brand-mark {
   color: var(--muted);
 }
 
-/* —— Scene figure (GK2 pattern, Dressmaker tokens) —— */
+/* —— Scene figure —— */
 .scene-figure {
   margin: 0 0 1.5rem;
   border: 1px solid var(--border);
@@ -382,7 +382,7 @@ img.brand-mark {
   .guide table { font-size: 0.88rem; }
 }
 
-/* Brand mark image (user-supplied dress icon) */
+/* Brand mark image */
 img.brand-mark {
   width: 2.15rem;
   height: 2.15rem;
@@ -393,7 +393,7 @@ img.brand-mark {
   background: #2a1820;
 }
 
-/* —— Ad slots (minimal, centered, GK2/WARDOGS rhythm) —— */
+/* —— Ad slots (minimal, centered) —— */
 .ad-slot {
   margin: 1rem auto;
   display: flex;
