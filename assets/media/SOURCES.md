@@ -5,7 +5,7 @@ Site is unaffiliated with Cozy Lives, Free Lives, or Valve/Steam.
 
 Images © Cozy Lives / Free Lives via Steam store media.
 
-Steam store returns **8 screenshots** + header key art for this app — the full official store set as of 2026-09-26. No additional store screenshots available beyond the files below.
+Steam store returns **8 screenshots** + header key art for this app — the full official store set. No additional store screenshots available beyond the files below.
 
 | File | Steam URL | What it shows | Used on |
 |------|-----------|---------------|---------|

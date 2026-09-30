@@ -416,3 +416,10 @@ img.brand-mark {
 @media (min-width: 740px) {
   .ad-slot--mobile-banner { display: none; }
 }
+
+/* Compact reference tables (fit 4 columns on small phones) */
+.guide table.table-compact th, .guide table.table-compact td { min-width: 0; }
+@media (max-width: 560px) {
+  .guide table.table-compact { font-size: 0.84rem; }
+  .guide table.table-compact th, .guide table.table-compact td { padding: 0.4rem 0.45rem; }
+}
